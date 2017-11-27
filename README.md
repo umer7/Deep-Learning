@@ -12,6 +12,7 @@ for more Papers see [The most cited deep learning papers][1]
 * [deep-learning-with-python-notebooks][5]
 * [Deep-learning-tutorials][6]
 * [TensorFlow-ML-Exercises][7]
+* [Keras Examples][8]
 
 [1]: https://github.com/terryum/awesome-deep-learning-papers
 [2]: https://github.com/BinRoot/TensorFlow-Book
@@ -20,6 +21,7 @@ for more Papers see [The most cited deep learning papers][1]
 [5]: https://github.com/fchollet/deep-learning-with-python-notebooks
 [6]: https://github.com/dalmia/Deep-learning-tutorials
 [7]: https://github.com/golbin/TensorFlow-ML-Exercises
+[8]:https://github.com/fchollet/keras/tree/master/examples
 
 
 
