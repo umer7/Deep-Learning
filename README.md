@@ -1,12 +1,10 @@
 # Deep Learning Specilization by Andrew NG
 
-Repository for coursera specialization Deep Learning by deeplearning.ai
-contains Notebooks,slides and papers )
+Repository for coursera specialization Deep Learning by deeplearning.ai contains Notebooks,slides and papers )
 
-The most cited deep learning papers
-* [The most cited deep learning papers][1]
+for more Papers see [The most cited deep learning papers][1]
 
-# other useful links for practice
+# Other useful links 
 
 * [TensorFlow-Book][2]
 * [stanford-tensorflow-tutorials][3]
