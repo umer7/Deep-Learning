@@ -5,7 +5,7 @@ This is my personal projects for the course. The course covers deep learning fro
 
 Instructor: Andrew Ng, DeepLearning.ai
 
- ## Course 1. [Neural Networks and Deep Learning]
+## Course 1. [Neural Networks and Deep Learning]
  
 1. Week1 - [Introduction to deep learning]
 2. Week2 - [Neural Networks Basics]
@@ -30,7 +30,7 @@ Instructor: Andrew Ng, DeepLearning.ai
          - Learning from multiple tasks
          - End-to-end deep learning
          
- ## Course 4. [Convolutional Neural Networks]
+## Course 4. [Convolutional Neural Networks]
  
  1. Week1 - [Foundations of Convolutional Neural Networks]
  2. Week2 - [Deep convolutional models: case studies] - Papers for read:  [ImageNet Classification with Deep Convolutional
@@ -39,7 +39,7 @@ Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-
 Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640.pdf), [YOLO](https://arxiv.org/pdf/1612.08242.pdf)
  4. Week4 - [Special applications: Face recognition & Neural style transfer] - Papers for read: [DeepFace](https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf), [FaceNet](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Schroff_FaceNet_A_Unified_2015_CVPR_paper.pdf)
  
- ## Course 5. [Sequence Models]
+## Course 5. [Sequence Models]
  1. Week1 - [Recurrent Neural Networks](
  2. Week2 - [Natural Language Processing & Word Embeddings](
  3. Week3 - [Sequence models & Attention mechanism]
